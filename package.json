@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "pg": "^4.4.3"
+  },
+  "devDependencies": {
+    "iced-coffee-script": "^108.0.9"
   }
 }
